@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class LinkHome 
 {
-	//http://localhost:1001/link
 	
 	//RequestMapping annotation is used to map web requests onto specific handler classes and/or handler methods. 
 	@RequestMapping("/Hplink")
